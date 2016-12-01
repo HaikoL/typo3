@@ -2,7 +2,7 @@
 This is a collection of several information about typo3. It is going to start by a short install section with some minor hints and tricks. In the future there will be many examples and templates to get startet fast an easy and setting up bigger project in an easy way. 
 
 ### Content:
-- [Installing Typo3 (ssh - symlink - copy)](#installing-typo3)
+- [Installing Typo3](#installing-typo3)
 - [Setting up language](#setting-up-language)
 - [New distribution](#creating-new-distribution)
 - more to come
@@ -19,7 +19,7 @@ This is a collection of several information about typo3. It is going to start by
 * Create the symlinks in your document root:
 ```
   cd htdocs
-  ln -s ../typo3_src-8.x.x typo3_src
+  ln -s ../typo3_src-x.x.x typo3_src
   ln -s typo3_src/typo3
 ```
 
