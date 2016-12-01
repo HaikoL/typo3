@@ -1,15 +1,15 @@
 # Typo3 - default project, config and extensions
 This is a collection of several information about typo3. It is going to start by a short install section with some minor hints and tricks. In the future there will be many examples and templates to get startet fast an easy and setting up bigger project in an easy way. 
 
-### Content:
+## Content:
 - [Installing Typo3](#installing-typo3)
 - [Setting up language](#setting-up-language)
 - [New distribution](#creating-new-distribution)
 - more to come
 
-## Installing Typo3
+# Installing Typo3
 
-#### SSH and symlinks are possible
+### SSH and symlinks are possible
 * Uncompress the `typo3_src-x.x.x.tar.gz` file one level above the document root of your web server:
 ```
 /var/www/site/htdocs/ $ cd ..
@@ -38,8 +38,8 @@ You end up with the follow structure of files:
   htdocs/.htaccess
 ```
 
-## Setting up language
+# Setting up language
 to be done
 
-## Creating new distribution 
+# Creating new distribution 
 to be done
