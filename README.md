@@ -3,7 +3,6 @@ This is a collection of several information about typo3. It is going to start by
 
 ## Content:
 - [Installing Typo3](#installing-typo3)
-- [Setting up language](#setting-up-language)
 - [New distribution](#creating-new-distribution)
 - more to come
 
@@ -37,9 +36,6 @@ You end up with the follow structure of files:
   htdocs/index.php
   htdocs/.htaccess
 ```
-
-# Setting up language
-to be done
 
 # Creating new distribution 
 to be done
